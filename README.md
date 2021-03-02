@@ -21,4 +21,4 @@ an h3 element with blue text that says “I’m a blue h3!”
 a div element with a black border and pink background color with the following elements inside of it:
 an h1 element that says “I’m in a div”
 another p element that says “ME TOO!”
-Hint for this one: after creating the div with createElement, append the <h1> and <p> to it before adding it to the container.
+Hint for this one: after creating the div with createElement, append the h1 and p to it before adding it to the container.
